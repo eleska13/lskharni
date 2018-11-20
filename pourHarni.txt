@@ -1,0 +1,1 @@
+git clone + le nom du domaine
